@@ -199,3 +199,16 @@
         padding-bottom: 20px;
     }
 }
+@media (max-width: 991x)
+{
+#testimo .carousel-control-prev,
+#testimo .carousel-control-next {
+     width: 25px;
+     height: 25px;
+     background: #2e2d2d;
+     opacity: 1;
+     font-size: 20px;
+     color: #ffffff;
+     top: 39%;
+}
+}
