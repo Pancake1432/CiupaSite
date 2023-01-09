@@ -654,8 +654,8 @@ ul.social_icon li a:hover {
 
 #testimo .carousel-control-prev,
 #testimo .carousel-control-next {
-     width: 55px;
-     height: 55px;
+     width: 35px;
+     height: 35px;
      background: #2e2d2d;
      opacity: 1;
      font-size: 20px;
